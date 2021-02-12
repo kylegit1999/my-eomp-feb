@@ -1,0 +1,99 @@
+.flex-container {
+    display: flex;
+    background-color: DodgerBlue;
+}
+
+.flex-container>div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.mynavbar {
+    position: -webkit-sticky;
+    /* Safari */
+    position: sticky;
+    top: 0;
+    text-decoration: none;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    ,
+    sans-serif
+}
+
+body,
+html {
+    height: 100%;
+    line-height: 1.8;
+}
+
+.bgimg-1 {
+    background-position: center;
+    background-size: cover;
+}
+
+.b-bar .b-button {
+    padding: 16px;
+}
+
+.q-quarter {
+    border: 2px solid blue;
+}
+
+.c-container {
+    border: 2px solid blue;
+}
+
+.thebg {
+    text-align-last: center;
+    image-rendering: auto;
+}
+
+.mysidebar {
+    color: red;
+    font-size-adjust: initial;
+    border: blanchedalmond;
+    padding: 20px;
+}
+
+.w3-Large {
+    text-align: center;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Raleway", sans-serif
+}
+
+body,
+html {
+    height: 100%;
+    line-height: 1.8;
+}
+
+.bgimg-1 {
+    background-position: center;
+    background-size: cover;
+    background-image: url("22.jpeg");
+    min-height: 116%;
+    width: initial;
+    text-align-last: center;
+}
+
+{
+    padding: 16px;
+}
